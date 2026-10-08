@@ -1,0 +1,10 @@
+{
+  "description": "Connect with others seamlessly through real-time messaging, enhancing communication for individuals and teams alike.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
